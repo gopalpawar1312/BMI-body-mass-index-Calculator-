@@ -1,0 +1,28 @@
+.container{
+    padding: 100px;
+    margin-left: 500px;
+    font-weight: 100;
+
+}
+body{
+    background-color: grey;
+}
+button{
+    width: 150px;
+    height: 2rem;
+    border-radius: 5px;
+    background-color: green;
+    margin-left: 90px;
+}
+p{
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+#results
+{
+    margin-left: 45px;
+    font-size: 1.5rem;
+    color: red;
+}
+
+
